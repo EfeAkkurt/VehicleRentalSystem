@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\works (acunmedia)\\VehicleRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|d:\\works (acunmedia)\\vehiclerentalsystem\\vehiclerentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|solutionrelative:vehiclerentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|d:\\works (acunmedia)\\vehiclerentalsystem\\vehiclerentalsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|solutionrelative:vehiclerentalsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|d:\\works (acunmedia)\\vehiclerentalsystem\\vehiclerentalsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|solutionrelative:vehiclerentalsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|d:\\works (acunmedia)\\vehiclerentalsystem\\vehiclerentalsystem\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922F529A-FE86-46DD-B309-9455D6A7A1BD}|VehicleRentalSystem\\VehicleRentalSystem.csproj|solutionrelative:vehiclerentalsystem\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\Car.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem\\Car.cs",
+              "ToolTip": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\Car.cs",
+              "RelativeToolTip": "VehicleRentalSystem\\Car.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwMIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:05:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\User.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem\\User.cs",
+              "ToolTip": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\User.cs",
+              "RelativeToolTip": "VehicleRentalSystem\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:46:09.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\Helper.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem\\Helper.cs",
+              "ToolTip": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\Helper.cs",
+              "RelativeToolTip": "VehicleRentalSystem\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:26:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem\\Program.cs",
+              "ToolTip": "D:\\works (acunmedia)\\VehicleRentalSystem\\VehicleRentalSystem\\Program.cs",
+              "RelativeToolTip": "VehicleRentalSystem\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHIBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:47:54.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
