@@ -12,7 +12,7 @@ namespace VehicleRentalSystem
 {
     internal class Program 
     {
-        static string connectionString = "Server=USER;Database=VehicleRentalSystem;Integrated Security=true;TrustServerCertificate=True";
+        static string connectionString = "";
 
         static void Main(string[] args)
         {
